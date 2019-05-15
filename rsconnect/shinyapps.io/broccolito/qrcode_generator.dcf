@@ -1,0 +1,12 @@
+name: qrcode_generator
+title: qrcode_generator
+username:
+account: broccolito
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 930344
+bundleId: 2085053
+url: https://broccolito.shinyapps.io/qrcode_generator/
+when: 1557885303.8339
+asMultiple: FALSE
+asStatic: FALSE
