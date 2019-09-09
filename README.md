@@ -4,4 +4,4 @@ A simple shiny app that will generate QR code based on input texts. Background c
 
 ## Deployed on
 
-* [Shiny IO](https://broccolito.shinyapps.io/qrcode_generator/) - A cloud server for interactive shiny applications
+* [QR Code Generator](https://broccolito.shinyapps.io/qrcode_generator/) - A cloud server for interactive shiny applications
